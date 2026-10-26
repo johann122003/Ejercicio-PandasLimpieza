@@ -1,0 +1,26 @@
+﻿ID_Registro,Tipo_Registro,Fecha,Especialidad,PacienteID,NombrePaciente,MedicoID,NombreMedico,CostoConsulta,SalaID,TipoCirugia,CostoCirugia,Exito
+101,Cita,1/5/2025,Cardiología,PAC-001,Juan Torres,MED-10,Dr. Rivas,$60.00,_,_,0,No
+101,Cita,1/5/2025,Cardiología,PAC-001,Juan Torres,MED-10,Dr. Rivas,$60.00,_,_,0,No
+102,Cita,1/5/2025,,PAC-002,Maria Lopez,MED-12,Dra. Salas,45.00 USD,_,_,0,No
+103,Cirugia,2/5/2025,Cardiología,_,_,MED-10,Dr. Rivas,0,S-01,Bypass,USD 12500.00,Sí
+104,Cita,2/5/2025,Pediatría,PAC-003,Luis Cano,MED-15,Dr. Mendez,$40.00,_,_,0,No
+105,Cirugia,3/5/2025,Traumatología,_,_,MED-20,Dra. Luna,0,S-05,Prótesis Cadera,$8500.00,Sí
+106,Cita,3/5/2025,Cardiología,PAC-004,Ana Soto,MED-10,Dr. Rivas,60.00,_,_,0,No
+107,Cirugia,4/5/2025,Cardiología,_,_,MED-10,Dr. Rivas,0,S-01,Stent,USD 4500.00,No
+108,Cita,4/5/2025,,PAC-005,Pedro Ruiz,MED-18,Dra. Gomez,$50.00,_,_,0,No
+109,Cirugia,5/5/2025,Pediatría,_,_,MED-15,Dr. Mendez,0,S-02,Apendicectomía,3200.00 USD,Sí
+110,Cita,5/5/2025,Traumatología,PAC-001,Juan Torres,MED-20,Dra. Luna,$55.00,_,_,0,No
+111,Cirugia,6/5/2025,Traumatología,_,_,MED-22,Dr. Vaca,0,S-05,Artroscopía,$2800.00,Sí
+112,Cita,6/5/2025,Cardiología,PAC-002,Maria Lopez,MED-10,Dr. Rivas,60.00 USD,_,_,0,No
+113,Cirugia,7/5/2025,Cardiología,_,_,MED-10,Dr. Rivas,0,S-01,Bypass,12500.00,Sí
+114,Cita,7/5/2025,Pediatría,PAC-006,Elena Paz,MED-15,Dr. Mendez,$40.00,_,_,0,No
+115,Cirugia,8/5/2025,Traumatología,_,_,MED-20,Dra. Luna,0,S-05,Prótesis Rodilla,USD 9000.00,Sí
+106,Cita,3/5/2025,Cardiología,PAC-004,Ana Soto,MED-10,Dr. Rivas,60.00,_,_,0,No
+116,Cita,8/5/2025,Traumatología,PAC-003,Luis Cano,MED-20,Dra. Luna,$55.00,_,_,0,No
+117,Cirugia,9/5/2025,Pediatría,_,_,MED-17,Dra. Ortiz,0,S-02,Hernia,2100.00 USD,Sí
+118,Cita,9/5/2025,Cardiología,PAC-001,Juan Torres,MED-10,Dr. Rivas,$60.00,_,_,0,No
+119,Cirugia,10/5/2025,Cardiología,_,_,MED-10,Dr. Rivas,0,S-01,Stent,$4500.00,Sí
+109,Cirugia,5/5/2025,Pediatría,_,_,MED-15,Dr. Mendez,0,S-02,Apendicectomía,3200.00 USD,Sí
+120,Cita,10/5/2025,Pediatría,PAC-002,Maria Lopez,MED-15,Dr. Mendez,40.00,_,_,0,No
+120,Cita,10/5/2025,Pediatría,PAC-002,Maria Lopez,MED-15,Dr. Mendez,40.00,_,_,0,No
+115,Cirugia,8/5/2025,Traumatología,_,_,MED-20,Dra. Luna,0,S-05,Prótesis Rodilla,USD 9000.00,Sí
